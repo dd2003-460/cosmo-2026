@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "exportedAt": "2026-06-05T16:07:02.927Z",
+  "rootId": "root",
+  "nodes": {
+    "n_mq148q0b_0nl2xk": {
+      "children": [],
+      "content": "AI录音笔：宇宙爆炸模型与原初扰动计算 本周 这份录音内容主要涉及宇宙学暴涨（Inflation）期间原初扰动的量子起源，重点讲解了标量扰动（Scalar Perturbations）和张量扰动（Tensor Perturbations，即原初引力波）是如何从量子涨落演变为经典扰动，并最终形成我们今天观测到的宇宙大尺度结构的。以下是基于录音内容的详细知识点拆解与逻辑梳理：**第一部分：暴涨期间的标量扰动（Sc",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_0nl2xk",
+      "parentId": "n_mq148q0b_zhdc76",
+      "source": {
+        "anchor": "a_mq148pzl_gdbnhi",
+        "excerpt": "AI录音笔：宇宙爆炸模型与原初扰动计算 本周 这份录音内容主要涉及宇宙学暴涨（Inflation）期间原初扰动的量子起源，重点讲解了标量扰动（Scalar Perturbations）和张量扰动（Tensor Perturbations，即",
+        "kind": "scrape_message",
+        "role": "assistant",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "AI：AI录音笔：宇宙爆炸模型与原初扰动计算 本周 这份录音…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_13rojo": {
+      "children": [],
+      "content": "AI录音笔：宇宙模型与AI生成探讨 本周 这份录音转写内容主要讲解了宇宙学中暴涨（Inflation）结束后，宇宙如何过渡到我们今天观测到的辐射主导时期，即再加热（Reheating）过程。内容涵盖了从早期简单的衰变模型到90年代更深入的参数共振理论。以下是基于录音内容的详细知识点拆解与逻辑梳理：一、 背景：暴涨模型与观测数据（录音前半部分）在讲解再加热之前，教授首先回顾了暴涨模型本身",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_13rojo",
+      "parentId": "n_mq148q0b_um2xj8",
+      "source": {
+        "anchor": "a_mq148pzl_v75q83",
+        "excerpt": "AI录音笔：宇宙模型与AI生成探讨 本周 这份录音转写内容主要讲解了宇宙学中暴涨（Inflation）结束后，宇宙如何过渡到我们今天观测到的辐射主导时期，即再加热（Reheating）过程。内容涵盖了从早期简单的衰变模型到90年代更深入的参",
+        "kind": "scrape_message",
+        "role": "user",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "用户：AI录音笔：宇宙模型与AI生成探讨 本周 这份录音转写…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_64tva5": {
+      "children": [
+        "n_mq148q0b_v3x6yq",
+        "n_mq148q0b_i2vgbc"
+      ],
+      "content": "",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_64tva5",
+      "parentId": "n_mq148q0b_d7wxhi",
+      "source": {
+        "kind": "turn",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "回合 3：Q AI录音笔：宇宙学课程与科研前景探讨 本周 这份录音是宇宙…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_7xvyt3": {
+      "children": [],
+      "content": "AI录音笔：宇宙早期指数膨胀模型解析 本周 这份录音转写内容主要讲解了宇宙暴胀（Inflation）理论的发展历程，特别是为了解决最初模型（古思模型）中的“优雅退出问题”，物理学家们是如何提出两种截然不同的解决路径：修正引力/多场模型与慢滚暴胀模型。以下是内容的详细逻辑梳理与知识点讲解：一、 核心背景：暴胀理论的起源与遗留问题1. 暴胀的基本概念定义：宇宙在大",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_7xvyt3",
+      "parentId": "n_mq148q0b_zhdc76",
+      "source": {
+        "anchor": "a_mq148pzl_aqsw7r",
+        "excerpt": "AI录音笔：宇宙早期指数膨胀模型解析 本周 这份录音转写内容主要讲解了宇宙暴胀（Inflation）理论的发展历程，特别是为了解决最初模型（古思模型）中的“优雅退出问题”，物理学家们是如何提出两种截然不同的解决路径：修正引力/多场模型与慢滚",
+        "kind": "scrape_message",
+        "role": "user",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "用户：AI录音笔：宇宙早期指数膨胀模型解析 本周 这份录音转…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_d7wxhi": {
+      "children": [
+        "n_mq148q0b_zhdc76",
+        "n_mq148q0b_um2xj8",
+        "n_mq148q0b_64tva5",
+        "n_mq148q0b_yetbjr",
+        "n_mq148q0c_j5zg1g"
+      ],
+      "content": "来源：https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_d7wxhi",
+      "parentId": "root",
+      "source": {
+        "kind": "scrape",
+        "reason": "manual",
+        "role": "conversation",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "元宝 - 2026春宇宙学 · 2026/6/6 00:05:42",
+      "updatedAt": "2026-06-05T16:05:42.444Z"
+    },
+    "n_mq148q0b_i2vgbc": {
+      "children": [],
+      "content": "暴胀宇宙学标量场方程推导 本周 好的，我们来对这块白板上的内容进行一次彻底、清晰且逻辑连贯的“知识点解剖”。这张图完美地展示了理论物理学家如何从一个非常一般的原理出发，逐步代入具体的物理情境，最终得到一个描述宇宙演化的核心方程。整个推导的逻辑链条是：广义相对论性时空（FRW度规）→ 弯曲时空中的场论（标量场运动方程）→ 具体宇宙学背景下的演化方程。**第一部分：舞台搭建 —— 描述宇宙的时空几何",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_i2vgbc",
+      "parentId": "n_mq148q0b_64tva5",
+      "source": {
+        "anchor": "a_mq148pzl_74wuae",
+        "excerpt": "暴胀宇宙学标量场方程推导 本周 好的，我们来对这块白板上的内容进行一次彻底、清晰且逻辑连贯的“知识点解剖”。这张图完美地展示了理论物理学家如何从一个非常一般的原理出发，逐步代入具体的物理情境，最终得到一个描述宇宙演化的核心方程。整个推导的逻",
+        "kind": "scrape_message",
+        "role": "assistant",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "AI：暴胀宇宙学标量场方程推导 本周 好的，我们来对这块白板…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_n76fhz": {
+      "children": [],
+      "content": "AI录音笔：宇宙微波背景探测技术解析 本周 这段录音转写内容是一节关于宇宙微波背景辐射（CMB）观测与理论的、信息量极大的研究生或高年级本科生课程。老师详细讲解了如何从观测数据中提取CMB的角功率谱，以及如何在理论上从一个宇宙学模型出发计算出这个谱。核心目标是：将理论预言与观测数据匹配，从而精确测定宇宙学参数。以下是课程中出现的所有知识点的详细梳理，按照逻辑线路进行组织：###",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_n76fhz",
+      "parentId": "n_mq148q0b_um2xj8",
+      "source": {
+        "anchor": "a_mq148pzl_dyty7k",
+        "excerpt": "AI录音笔：宇宙微波背景探测技术解析 本周 这段录音转写内容是一节关于宇宙微波背景辐射（CMB）观测与理论的、信息量极大的研究生或高年级本科生课程。老师详细讲解了如何从观测数据中提取CMB的角功率谱，以及如何在理论上从一个宇宙学模型出发计算",
+        "kind": "scrape_message",
+        "role": "assistant",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "AI：AI录音笔：宇宙微波背景探测技术解析 本周 这段录音转…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_um2xj8": {
+      "children": [
+        "n_mq148q0b_13rojo",
+        "n_mq148q0b_n76fhz"
+      ],
+      "content": "",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_um2xj8",
+      "parentId": "n_mq148q0b_d7wxhi",
+      "source": {
+        "kind": "turn",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "回合 2：Q AI录音笔：宇宙模型与AI生成探讨 本周 这份录音转写内容…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_v3x6yq": {
+      "children": [],
+      "content": "AI录音笔：宇宙学课程与科研前景探讨 本周 这份录音是宇宙学（Cosmology）课程中关于宇宙结构形成（Structure Formation）的深入讲解，涵盖了从早期暴涨（Inflation）到后期物质演化的完整物理图像。以下是按照逻辑顺序梳理的核心知识点：第一部分：课程背景与科研现状（开场白）1. 学科现状与“内卷”* 观测数据的限制： 宇宙微波背景（CMB）只在特定尺",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_v3x6yq",
+      "parentId": "n_mq148q0b_64tva5",
+      "source": {
+        "anchor": "a_mq148pzl_tlp38t",
+        "excerpt": "AI录音笔：宇宙学课程与科研前景探讨 本周 这份录音是宇宙学（Cosmology）课程中关于宇宙结构形成（Structure Formation）的深入讲解，涵盖了从早期暴涨（Inflation）到后期物质演化的完整物理图像。以下是按照逻辑",
+        "kind": "scrape_message",
+        "role": "user",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "用户：AI录音笔：宇宙学课程与科研前景探讨 本周 这份录音是…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0b_yetbjr": {
+      "children": [
+        "n_mq148q0c_y3ej1u",
+        "n_mq148q0c_d0xif7"
+      ],
+      "content": "",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_yetbjr",
+      "parentId": "n_mq148q0b_d7wxhi",
+      "source": {
+        "kind": "turn",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "回合 4：Q AI录音笔：宇宙红移与膨胀机制解析 本周 这段录音是宇宙学…",
+      "updatedAt": "2026-06-05T16:05:42.444Z"
+    },
+    "n_mq148q0b_zhdc76": {
+      "children": [
+        "n_mq148q0b_7xvyt3",
+        "n_mq148q0b_0nl2xk"
+      ],
+      "content": "",
+      "createdAt": "2026-06-05T16:05:42.443Z",
+      "id": "n_mq148q0b_zhdc76",
+      "parentId": "n_mq148q0b_d7wxhi",
+      "source": {
+        "kind": "turn",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "回合 1：Q AI录音笔：宇宙早期指数膨胀模型解析 本周 这份录音转写内…",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    },
+    "n_mq148q0c_7kj668": {
+      "children": [],
+      "content": "AI录音笔：宇宙元素合成与平衡态理论 本周 这份录音转写稿涵盖了早期宇宙热大爆炸模型（Hot Big Bang）中关于粒子反应率、热平衡、核合成（Nucleosynthesis）以及玻尔兹曼方程（Boltzmann Equation）的核心物理内容。以下是按逻辑顺序梳理的详细知识点讲解：第一部分：热平衡与萨哈方程（Saha Equation）这是录音前半部分的核心，讨论了在宇宙早期高温高",
+      "createdAt": "2026-06-05T16:05:42.444Z",
+      "id": "n_mq148q0c_7kj668",
+      "parentId": "n_mq148q0c_j5zg1g",
+      "source": {
+        "anchor": "a_mq148pzl_jg2pd9",
+        "excerpt": "AI录音笔：宇宙元素合成与平衡态理论 本周 这份录音转写稿涵盖了早期宇宙热大爆炸模型（Hot Big Bang）中关于粒子反应率、热平衡、核合成（Nucleosynthesis）以及玻尔兹曼方程（Boltzmann Equation）的核心",
+        "kind": "scrape_message",
+        "role": "assistant",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "AI：AI录音笔：宇宙元素合成与平衡态理论 本周 这份录音转…",
+      "updatedAt": "2026-06-05T16:05:42.444Z"
+    },
+    "n_mq148q0c_d0xif7": {
+      "children": [],
+      "content": "AI录音笔：宇宙学发展历史与研究方法 本周 好的，这堂录音课是宇宙学的导论课程，老师以历史发展为脉络，串联起了现代宇宙学的核心概念、理论基础、观测手段和发展历程。下面我将为你详细拆解其中出现的所有知识点，并按照逻辑进行梳理。一、课程与研究方法学习要求：必须动手推导：宇宙学是物理，不是故事。只有亲手推导公式，才能理解背后的物理图像，将知识内化。注重观测验证：理论",
+      "createdAt": "2026-06-05T16:05:42.444Z",
+      "id": "n_mq148q0c_d0xif7",
+      "parentId": "n_mq148q0b_yetbjr",
+      "source": {
+        "anchor": "a_mq148pzl_qxjd3p",
+        "excerpt": "AI录音笔：宇宙学发展历史与研究方法 本周 好的，这堂录音课是宇宙学的导论课程，老师以历史发展为脉络，串联起了现代宇宙学的核心概念、理论基础、观测手段和发展历程。下面我将为你详细拆解其中出现的所有知识点，并按照逻辑进行梳理。一、课程与研究方",
+        "kind": "scrape_message",
+        "role": "assistant",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "AI：AI录音笔：宇宙学发展历史与研究方法 本周 好的，这堂…",
+      "updatedAt": "2026-06-05T16:05:42.444Z"
+    },
+    "n_mq148q0c_j5zg1g": {
+      "children": [
+        "n_mq148q0c_qdv6c0",
+        "n_mq148q0c_7kj668"
+      ],
+      "content": "",
+      "createdAt": "2026-06-05T16:05:42.444Z",
+      "id": "n_mq148q0c_j5zg1g",
+      "parentId": "n_mq148q0b_d7wxhi",
+      "source": {
+        "kind": "turn",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "回合 5：Q AI录音笔：宇宙学线源与曲率推导 本周 这份录音转写内容主…",
+      "updatedAt": "2026-06-05T16:05:42.444Z"
+    },
+    "n_mq148q0c_qdv6c0": {
+      "children": [],
+      "content": "AI录音笔：宇宙学线源与曲率推导 本周 这份录音转写内容主要讲解了现代宇宙学中的弗里德曼-勒梅特-罗伯逊-沃尔克（FLRW）度规，以及基于此度规推导出的宇宙动力学方程。以下是按逻辑梳理的核心知识点详解：一、 空间几何：最大对称性与FLRW度规1. 空间曲率参数 $K$宇宙在大尺度上被认为是均匀且各向同性的（哥白尼原理）。满足这一条件的三维空间只能是以下三种之一：",
+      "createdAt": "2026-06-05T16:05:42.444Z",
+      "id": "n_mq148q0c_qdv6c0",
+      "parentId": "n_mq148q0c_j5zg1g",
+      "source": {
+        "anchor": "a_mq148pzl_l0dhgq",
+        "excerpt": "AI录音笔：宇宙学线源与曲率推导 本周 这份录音转写内容主要讲解了现代宇宙学中的弗里德曼-勒梅特-罗伯逊-沃尔克（FLRW）度规，以及基于此度规推导出的宇宙动力学方程。以下是按逻辑梳理的核心知识点详解：一、 空间几何：最大对称性与FLRW度",
+        "kind": "scrape_message",
+        "role": "user",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "用户：AI录音笔：宇宙学线源与曲率推导 本周 这份录音转写内…",
+      "updatedAt": "2026-06-05T16:05:42.444Z"
+    },
+    "n_mq148q0c_y3ej1u": {
+      "children": [],
+      "content": "AI录音笔：宇宙红移与膨胀机制解析 本周 这段录音是宇宙学（Cosmology）课程的 lecture，内容非常丰富，涵盖了从距离测量到宇宙热历史的核心概念。为了让你清晰理解，我将按照课程的逻辑顺序，把内容拆解为 4 个核心模块 进行讲解：模块一：宇宙学中的“距离”概念（核心难点）在宇宙学中，由于时空在膨胀，“距离”不像牛顿力学那样简单。讲师花了大量时间推导三种关键距离。##",
+      "createdAt": "2026-06-05T16:05:42.444Z",
+      "id": "n_mq148q0c_y3ej1u",
+      "parentId": "n_mq148q0b_yetbjr",
+      "source": {
+        "anchor": "a_mq148pzl_eor4nv",
+        "excerpt": "AI录音笔：宇宙红移与膨胀机制解析 本周 这段录音是宇宙学（Cosmology）课程的 lecture，内容非常丰富，涵盖了从距离测量到宇宙热历史的核心概念。为了让你清晰理解，我将按照课程的逻辑顺序，把内容拆解为 4 个核心模块 进行讲解：",
+        "kind": "scrape_message",
+        "role": "user",
+        "url": "https://yuanbao.tencent.com/project/7acce708b2104063b6d438a818266891"
+      },
+      "title": "用户：AI录音笔：宇宙红移与膨胀机制解析 本周 这段录音是宇…",
+      "updatedAt": "2026-06-05T16:05:42.444Z"
+    },
+    "root": {
+      "children": [
+        "n_mq148q0b_d7wxhi"
+      ],
+      "content": "",
+      "createdAt": "2026-06-05T16:04:29.713Z",
+      "id": "root",
+      "parentId": null,
+      "source": null,
+      "title": "对话树",
+      "updatedAt": "2026-06-05T16:05:42.443Z"
+    }
+  }
+}
